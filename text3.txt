@@ -1,0 +1,6 @@
+As of 04/04/22
+The Bloomberg Billionaires Index is a daily ranking of the world’s richest people. Details about the calculations are provided in the net worth analysis on each billionaire’s profile page. The figures are updated at the close of every trading day in New York.
+Rank Name Total net worth $ Last change $ YTD change Country / Region Industry
+1st Elon Musk $273 billion United States Technology
+2nd Jeff Bezos $188 billion United States Technology
+3rd Bernard Arnault $148 billion France Consumer
